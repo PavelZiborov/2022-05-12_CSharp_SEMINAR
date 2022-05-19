@@ -1,0 +1,15 @@
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/bin/Debug/net6.0/example013_
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/bin/Debug/net6.0/example013_.deps.json
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/bin/Debug/net6.0/example013_.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/bin/Debug/net6.0/example013_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/bin/Debug/net6.0/example013_.pdb
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/refint/example013_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.pdb
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/example013_.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example013_/obj/Debug/net6.0/ref/example013_.dll

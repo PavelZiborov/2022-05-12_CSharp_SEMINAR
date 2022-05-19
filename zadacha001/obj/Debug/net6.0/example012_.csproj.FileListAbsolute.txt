@@ -1,0 +1,30 @@
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/bin/Debug/net6.0/example012_
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/bin/Debug/net6.0/example012_.deps.json
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/bin/Debug/net6.0/example012_.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/bin/Debug/net6.0/example012_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/bin/Debug/net6.0/example012_.pdb
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/refint/example012_.dll
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.pdb
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/example012_.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-04-26_Lekciya C#/HellowCode/example012_/obj/Debug/net6.0/ref/example012_.dll
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/bin/Debug/net6.0/example012_
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/bin/Debug/net6.0/example012_.deps.json
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/bin/Debug/net6.0/example012_.runtimeconfig.json
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/bin/Debug/net6.0/example012_.dll
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/bin/Debug/net6.0/example012_.pdb
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.csproj.AssemblyReference.cache
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.AssemblyInfoInputs.cache
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.AssemblyInfo.cs
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.csproj.CoreCompileInputs.cache
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.dll
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/refint/example012_.dll
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.pdb
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/example012_.genruntimeconfig.cache
+/Users/pavel/Documents/IT/2022-05-12_C#_seminar/zadacha001/obj/Debug/net6.0/ref/example012_.dll
